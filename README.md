@@ -1,6 +1,6 @@
 # Hi, I'm Horacio 👋
 
-Full Stack developer from Uruguay with 6+ years of experience, strongest on the frontend with **React, Next.js and TypeScript**. For the last 5 years I have worked daily, in English, with a US-based client in financial services, first building and maintaining an internal component library and, since 2026, on a cross-functional team doing frontend, backend and Cloudflare Workers work for engineering metrics dashboards.
+Full Stack developer from Uruguay with 5+ years of experience, strongest on the frontend with **React, Next.js and TypeScript**. For the last 5 years I have worked daily, in English, with a US-based client in financial services, first building and maintaining an internal component library and, since 2026, on a cross-functional team doing frontend, backend and Cloudflare Workers work for engineering metrics dashboards.
 
 I like turning data into something people can actually read and use, and I use AI tools (GitHub Copilot, Kiro) every day to build faster.
 
