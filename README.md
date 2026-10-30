@@ -34,5 +34,5 @@ Spanish (native) · English (B2, used daily at work)
 
 ## Contact
 
-<!-- Replace with your real links, then delete this comment -->
-- LinkedIn: <https://www.linkedin.com/in/YOUR-PROFILE>
+
+- LinkedIn: <https://www.linkedin.com/in/horacio-demar%C3%ADa-hontan-95599054/>
